@@ -1,5 +1,6 @@
 # iot_street_lamp
 Street lamp with safe
+![image](https://user-images.githubusercontent.com/20225380/122685660-d0a64280-d247-11eb-8970-8810b0ad88cb.png)
 
 ### IOT 과제 
 ### IOT 센서/액츄에이터를 활용한 클라이언트 서버 프로그램 개빌
